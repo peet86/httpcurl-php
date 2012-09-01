@@ -27,9 +27,6 @@ Download remote file
 
 	$httpf->get_file("http://www.host.com/example.jpg","./downloads/example.jpg");
 
-Download remote file 
-
-	$httpf->get_file("http://www.host.com/example.jpg","./downloads/example.jpg");
 
 Read remote file
 
